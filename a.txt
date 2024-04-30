@@ -1,4 +1,8 @@
 this is the first file
+hello
+hi
 you
 and me
 are not same
+bye
+
